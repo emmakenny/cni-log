@@ -21,6 +21,8 @@ The purpose of this package is to perform logging for CNI projects in NPWG. Cni-
 ## Usage
 The package can function out of the box as most of its configurations have [default values](#default-values). Just call any of the [logging functions](#logging-functions) to start logging. To further define log settings such as the log file path, the log level, as well as the lumberjack logger object, continue on to the [public functions below](#public-types--functions).
 
+#THIS IS A TEST
+
 ### Importing cni-log
 Import cni-log in your go file:
 ```go
